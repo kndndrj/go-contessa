@@ -1,4 +1,4 @@
-package contkit
+package contessa
 
 import "testing"
 
